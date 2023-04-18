@@ -32,3 +32,8 @@ body{
 #post{
     padding:1em
 }
+#footer{
+    background: #333;
+    color: #ddd;
+    text-align: center
+}
